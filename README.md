@@ -27,4 +27,4 @@ I'm a B.Tech Computer Science student with a strong interest in problem-solving 
 ## 📫 Connect
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/muditjain1411)
-- **Email:** [muditjian.1406@gmail.com](mailto:muditjain.1406@gmail.com)
+- **Email:** [muditjain.1406@gmail.com](mailto:muditjain.1406@gmail.com)
